@@ -25,7 +25,7 @@ This app provides a modern, interactive, and mobile-friendly interface.
 ### 1️⃣ Open the App  
 👉 **[Launch the App Here](https://portfolio-optimizer-dbel3qn7uxpxhrdaqipz6s.streamlit.app/)**  
 
-*(Replace this link with your actual Streamlit Cloud deployment URL)*
+
 
 ---
 
