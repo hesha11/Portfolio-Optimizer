@@ -9,6 +9,8 @@ st.set_page_config(page_title='🌟 Supreme Portfolio Optimizer', layout='wide')
 
 # 🎯 App Header
 st.title("💼 Supreme Portfolio Optimizer")
+st.image('logo.jpg', width=200)
+
 st.write("""
 Upload your portfolio Excel file with **historical prices** (Date in the first column, then stock prices).
 This app finds the **optimal portfolio** by maximizing the Sharpe Ratio 🚀.
