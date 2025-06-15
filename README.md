@@ -42,6 +42,7 @@ Your Excel file should look like this:
 - The first column must be named **`Date`**.  
 - Data can be sorted **oldest to newest** or **newest to oldest**; the app will automatically sort it correctly.  
 - Each other column should represent stock prices.
+- No empty columns between the data.
 
 ---
 
